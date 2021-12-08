@@ -2,7 +2,7 @@
 
 ### R1D3: December 7, 2021
 
-**Today's Progress**: Jumped into lists <ol>, <ul>, <a>, and <img> tags.
+**Today's Progress**: Jumped into lists ol, ul, a, and img tags.
 
 ### R1D2: December 6, 2021
 
