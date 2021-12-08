@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D4: December 8, 2021
+
+**Today's Progress**: Structural HTML tags.
+
 ### R1D3: December 7, 2021
 
 **Today's Progress**: Jumped into lists ol, ul, a, and img tags.
