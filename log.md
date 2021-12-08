@@ -11,3 +11,9 @@
 **Today's Progress**: Started HTML. Used Terminal to navigate files
 
 **Thoughts:** Moving forward...
+
+### R1D3: December 7, 2021
+
+**Today's Progress**: Jumped into lists (OL & UL), as well URL links & img links
+
+**Thoughts:** Long day... but persevered...
