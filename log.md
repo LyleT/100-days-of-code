@@ -2,7 +2,7 @@
 
 ### R1D6: December 10, 2021
 
-**Today's Progress**: iframes - continued
+**Today's Progress**: iframes & META tags
 
 ### R1D5: December 9, 2021
 
