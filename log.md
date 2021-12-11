@@ -1,8 +1,8 @@
 # 100 Days Of Code - Log
 
-### R1D6: December 10, 2021
+### R1D7: December 11, 2021
 
-**Today's Progress**: iframes & META tags
+**Today's Progress**: Best HTML practices
 
 ### R1D5: December 9, 2021
 
@@ -26,3 +26,6 @@
 
 
 
+### R1D6: December 10, 2021
+
+**Today's Progress**: iframes & META tags
