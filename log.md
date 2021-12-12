@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D8: December 12, 2021
+
+**Today's Progress**: Introduction to CSS
+
 ### R1D7: December 11, 2021
 
 **Today's Progress**: Best HTML practices
