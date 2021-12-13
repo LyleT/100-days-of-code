@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D9: December 13, 2021
+
+**Today's Progress**: Websafe Fonts & Background colours
+
 ### R1D8: December 12, 2021
 
 **Today's Progress**: Introduction to CSS
