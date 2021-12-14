@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D10: December 14, 2021
+
+**Today's Progress**: Background Borders & Colors
+
 ### R1D9: December 13, 2021
 
 **Today's Progress**: Websafe Fonts & Background colours
