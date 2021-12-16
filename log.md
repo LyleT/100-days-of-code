@@ -1,20 +1,24 @@
 # 100 Days Of Code - Log
 
+### R1D11: December 15, 2021
+
+**Today's Progress**: Box Model, Flexbox - align-items.
+
 ### R1D10: December 14, 2021
 
-**Today's Progress**: Background Borders & Colors
+**Today's Progress**: Background Borders & Colors, Flexbox - justify-content.
 
 ### R1D9: December 13, 2021
 
-**Today's Progress**: Websafe Fonts & Background colours
+**Today's Progress**: Websafe Fonts & Background colours, Flexbox - flex-direction.
 
 ### R1D8: December 12, 2021
 
-**Today's Progress**: Introduction to CSS
+**Today's Progress**: Introduction to CSS, flexbox.
 
 ### R1D7: December 11, 2021
 
-**Today's Progress**: Best HTML practices
+**Today's Progress**: Best HTML practices, flexbox.
 
 ### R1D5: December 9, 2021
 
@@ -22,7 +26,7 @@
 
 ### R1D4: December 8, 2021
 
-**Today's Progress**: Structural HTML tags, Flexbox.
+**Today's Progress**: Structural HTML tags, flexbox.
 
 ### R1D3: December 7, 2021
 
