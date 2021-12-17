@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D12: December 16, 2021
+
+**Today's Progress**: Box Model - dimensions
+
 ### R1D11: December 15, 2021
 
 **Today's Progress**: Box Model, Flexbox - align-items.
