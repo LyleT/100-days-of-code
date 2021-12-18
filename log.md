@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D14: December 18, 2021
+
+**Today's Progress**: Layouts & Floats
+
 ### R1D13: December 17, 2021
 
 **Today's Progress**: Classes & ID's
@@ -28,6 +32,10 @@
 
 **Today's Progress**: Best HTML practices, flexbox.
 
+### R1D6: December 10, 2021
+
+**Today's Progress**: iframes & META tags
+
 ### R1D5: December 9, 2021
 
 **Today's Progress**: iframes, flexbox.
@@ -50,6 +58,3 @@
 
 
 
-### R1D6: December 10, 2021
-
-**Today's Progress**: iframes & META tags
