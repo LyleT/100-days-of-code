@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D13: December 17, 2021
+
+**Today's Progress**: Classes & ID's
+
 ### R1D12: December 16, 2021
 
 **Today's Progress**: Box Model - dimensions
