@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D15: December 19, 2021
+
+**Today's Progress**: CSS Best practices
+
 ### R1D14: December 18, 2021
 
 **Today's Progress**: Layouts & Floats
