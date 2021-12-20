@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D16: December 20, 2021
+
+**Today's Progress**: Setting up a Website - pathways etc
+
 ### R1D15: December 19, 2021
 
 **Today's Progress**: CSS Best practices
