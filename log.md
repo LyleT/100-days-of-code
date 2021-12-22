@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D18: December 22, 2021
+
+**Today's Progress**: Styling
+
 ### R1D17: December 21, 2021
 
 **Today's Progress**: Setting up a Website - pathways etc (cont)
