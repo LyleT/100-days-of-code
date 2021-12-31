@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D26: December 30, 2021
+
+**Today's Progress**: HTML & CSS Website Setup
+
 ### R1D25: December 29, 2021
 
 **Today's Progress**: HTML & CSS Website Setup
