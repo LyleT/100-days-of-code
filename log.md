@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D28: January 1, 2022
+
+**Today's Progress**: Completed HTML & CSS Website Setup *** Happy New Years!! ***
+
 ### R1D27: December 31, 2021
 
 **Today's Progress**: HTML & CSS Website Setup *** Happy New Years Eve ***
