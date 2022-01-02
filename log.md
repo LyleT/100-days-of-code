@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D29: January 2, 2022
+
+**Today's Progress**: FTP & Domain Name set-up | Transfering Website Files to a host
+
 ### R1D28: January 1, 2022
 
 **Today's Progress**: Completed HTML & CSS Website Setup *** Happy New Years!! ***
