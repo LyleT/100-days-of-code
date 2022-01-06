@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D32: January 5, 2022
+
+**Today's Progress**: New Website HTML/CSS project from PSD
+
 ### R1D31: January 4, 2022
 
 **Today's Progress**: New Website HTML/CSS project from PSD
