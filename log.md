@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D33: January 6, 2022
+
+**Today's Progress**: Completed two websites form a .PSD file using HTML & CSS
+
 ### R1D32: January 5, 2022
 
 **Today's Progress**: New Website HTML/CSS project from PSD
