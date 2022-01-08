@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D34: January 7, 2022
+
+**Today's Progress**: Add extra pages to website
+
 ### R1D33: January 6, 2022
 
 **Today's Progress**: Completed two websites form a .PSD file using HTML & CSS
