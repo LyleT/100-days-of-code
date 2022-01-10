@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### R1D36: January 9, 2022
+
+**Today's Progress**: New website project - CSS commands
+
+### R1D35: January 8, 2022
+
+**Today's Progress**: Start new Website project
+
 ### R1D34: January 7, 2022
 
 **Today's Progress**: Add extra pages to website
