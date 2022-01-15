@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D41: January 14, 2022
+
+**Today's Progress**: New website project 'Vision Board'
+
 ### R1D40: January 13, 2022
 
 **Today's Progress**: Start another new website project 'Vision Board'
