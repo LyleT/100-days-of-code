@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D43: January 16, 2022
+
+**Today's Progress**: Completed Vision Board project
+
 ### R1D42: January 15, 2022
 
 **Today's Progress**: Project 'Vision Board' continuation
