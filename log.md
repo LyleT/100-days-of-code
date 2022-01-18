@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D44: January 17, 2022
+
+**Today's Progress**: Introduction to JavaScript
+
 ### R1D43: January 16, 2022
 
 **Today's Progress**: Completed Vision Board project
