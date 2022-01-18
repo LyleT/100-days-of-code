@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D45: January 18, 2022
+
+**Today's Progress**: Introduction to JavaScript continued
+
 ### R1D44: January 17, 2022
 
 **Today's Progress**: Introduction to JavaScript
