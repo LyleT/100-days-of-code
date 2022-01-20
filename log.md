@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D46: January 19, 2022
+
+**Today's Progress**: Introduction to JavaScript continued - Concatenation & Template Literals
+
 ### R1D45: January 18, 2022
 
 **Today's Progress**: Introduction to JavaScript continued
