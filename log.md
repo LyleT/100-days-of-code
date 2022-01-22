@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D48: January 21, 2022
+
+**Today's Progress**: Introduction to JavaScript continued - Data types & template literals continued
+
 ### R1D47: January 20, 2022
 
 **Today's Progress**: Introduction to JavaScript continued - Data types & template literals
