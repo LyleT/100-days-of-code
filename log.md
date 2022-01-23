@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D50: January 23, 2022
+
+**Today's Progress**: JS - Input Prompts ***Half-way thorugh 110 days of code***
+
 ### R1D49: January 22, 2022
 
 **Today's Progress**: Introduction to JavaScript continued - Data types & template literals continued
