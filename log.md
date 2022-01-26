@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D52: January 25, 2022
+
+**Today's Progress**: JS & Python - Arrays and appending arrays
+
 ### R1D51: January 24, 2022
 
 **Today's Progress**: JS - Conditional Operators
