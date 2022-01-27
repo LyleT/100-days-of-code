@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D54: January 27, 2022
+
+**Today's Progress**: JS If, Else If & Else statements cont.
+
 ### R1D53: January 26, 2022
 
 **Today's Progress**: JS If, Else If & Else statements
