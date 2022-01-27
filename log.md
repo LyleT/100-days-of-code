@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D53: January 26, 2022
+
+**Today's Progress**: JS If, Else If & Else statements
+
 ### R1D52: January 25, 2022
 
 **Today's Progress**: JS & Python - Arrays and appending arrays
