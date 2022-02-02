@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D59: February 1, 2022
+
+**Today's Progress**: JavaScript Project using HTML & CSS
+
 ### R1D58: January 31, 2022
 
 **Today's Progress**: Introduction to the DOM
