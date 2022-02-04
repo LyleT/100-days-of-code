@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D61: February 3, 2022
+
+**Today's Progress**: JS - Deep Dive into JavaScript and where it's used
+
 ### R1D60: February 2, 2022
 
 **Today's Progress**: JS OOP
