@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D63: February 5, 2022
+
+**Today's Progress**: JS - Continuation of JavaScript Project using HTML & CSS
+
 ### R1D62: February 4, 2022
 
 **Today's Progress**: JS - Continuation of JavaScript Project using HTML & CSS
