@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D68: February 10, 2022
+
+**Today's Progress**: Completed JS Project #2
+
 ### R1D67: February 9, 2022
 
 **Today's Progress**: JS - Data Types
