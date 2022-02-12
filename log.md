@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D69: February 11, 2022
+
+**Today's Progress**: Completed JS Project #3 - Error detection
+
 ### R1D68: February 10, 2022
 
 **Today's Progress**: Completed JS Project #2
