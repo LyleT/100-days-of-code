@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D74: February 16, 2022
+
+**Today's Progress**: Introduction to DOM eventListeners - cont
+
 ### R1D73: February 15, 2022
 
 **Today's Progress**: Introduction to DOM eventListeners - cont
