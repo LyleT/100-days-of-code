@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D82: February 24, 2022
+
+**Today's Progress**: Functions cont
+
 ### R1D81: February 23, 2022
 
 **Today's Progress**: Functions cont
