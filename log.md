@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D86: February 28, 2022
+
+**Today's Progress**: Functions cont - call & bind method
+
 ### R1D85: February 27, 2022
 
 **Today's Progress**: Functions cont
