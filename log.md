@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D87: March 1, 2022
+
+**Today's Progress**: Functions cont - passing string literals
+
 ### R1D86: February 28, 2022
 
 **Today's Progress**: Functions cont - call & bind method
