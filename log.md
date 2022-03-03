@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D88: March 2, 2022
+
+**Today's Progress**: Functions cont - local & global variables
+
 ### R1D87: March 1, 2022
 
 **Today's Progress**: Functions cont - passing string literals
