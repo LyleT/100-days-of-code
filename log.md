@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D89: March 3, 2022
+
+**Today's Progress**: JS Dom interaction
+
 ### R1D88: March 2, 2022
 
 **Today's Progress**: Functions cont - local & global variables
