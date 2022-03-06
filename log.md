@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### R1D92: March 6, 2022
+
+**Today's Progress**: JS Dom interaction w/ functions
+
+### R1D91: March 5, 2022
+
+**Today's Progress**: JS Dom interaction w/ Functions
+
+### R1D90: March 4, 2022
+
+**Today's Progress**: JS Dom interaction w/ Functions
+
 ### R1D89: March 3, 2022
 
 **Today's Progress**: JS Dom interaction
