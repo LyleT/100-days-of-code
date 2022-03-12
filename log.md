@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### R1D97: March 11, 2022
+
+**Today's Progress**: JS Dom - Event Listeners w/ Functions
+
+### R1D96: March 10, 2022
+
+**Today's Progress**: JS Dom - Event Listeners w/ Functions
+
+### R1D95: March 9, 2022
+
+**Today's Progress**: JS Dom - Event Listeners w/ Functions
+
 ### R1D94: March 8, 2022
 
 **Today's Progress**: JS Dom - Event Listeners w/ Functions
